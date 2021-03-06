@@ -9,5 +9,8 @@ Sebelum memulai, saya menyarankan untuk anda jika saat ini menggunakan Visual St
 #
 
 <img src="dokumen/file1.png" alt="Ekstensi Markdown Preview" width="700"/>
-[Link Repository](https://github.com/shd101wyy/vscode-markdown-preview-enhanced)
-[Markdown Preview Enhanced Download](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
+#
+
+- [Link Repository](https://github.com/shd101wyy/vscode-markdown-preview-enhanced)
+- [Markdown Preview Enhanced Download](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
