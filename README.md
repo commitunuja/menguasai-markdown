@@ -24,8 +24,25 @@ Anda dapat menggunakan Markdown di beberapa tempat seperti GitHub. File ekstensi
 # Headers
 
 `#` ini adalah sama seperti tag `<h1>` <br>
+
+# ini contoh `#` <br>
+
 `##` ini adalah sama seperti tag `<h2>` <br>
+
+## ini contoh `##` <br>
+
 `###` ini adalah sama seperti tag `<h3>` <br>
+
+### ini contoh `###` <br>
+
 `####` ini adalah sama seperti tag `<h4>` <br>
+
+#### ini contoh `####` <br>
+
 `#####` ini adalah sama seperti tag `<h5>` <br>
-`######` ini adalah sama seperti tag `<h6>`
+
+##### ini contoh `#####` <br>
+
+`######` ini adalah sama seperti tag `<h6>` <br>
+
+###### ini contoh `######`
